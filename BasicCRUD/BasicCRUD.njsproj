@@ -61,6 +61,7 @@
     <Content Include="README.md" />
     <Content Include="views\contact.ejs" />
     <Content Include="views\about.ejs" />
+    <Content Include="views\navbar.ejs" />
     <Content Include="views\index.ejs" />
     <Content Include="views\layout.ejs" />
   </ItemGroup>
